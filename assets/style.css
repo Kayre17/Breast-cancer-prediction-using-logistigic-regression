@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .css-j5r0tf {
     padding: 1rem;
     border-radius: 0.5rem;
@@ -16,4 +17,24 @@
   
   .diagnosis.malicious {
     background-color: #ff4b4b
+=======
+.css-j5r0tf {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: #7E99AB;
+  }
+  
+  .diagnosis {
+    color: #fff;
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+  }
+  
+  .diagnosis.benign {
+    background-color: #01DB4B
+  }
+  
+  .diagnosis.malicious {
+    background-color: #ff4b4b
+>>>>>>> 983b5f0 (Initial commit)
   }
